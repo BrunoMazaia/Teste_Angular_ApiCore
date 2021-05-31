@@ -1,0 +1,71 @@
+﻿<Properties StartupConfiguration="{45BD84F3-C6C3-4316-B63C-084FF9D98CA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.API.SuperInovacoes.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="src/SuperInovacoes.Api/Properties/launchSettings.json" Line="5" Column="18" />
+      <File FileName="src/SuperInovacoes.Business/Notificacoes/Notificacao.cs" />
+      <File FileName="src/SuperInovacoes.Api/Configuracao/InjecaoDependencia.cs" />
+      <File FileName="src/SuperInovacoes.Api/Startup.cs" Line="49" Column="34" />
+      <File FileName="src/SuperInovacoes.Data/Repository/ProdutoRepository.cs" />
+      <File FileName="src/SuperInovacoes.Api/Controllers/ProdutoController.cs" />
+      <File FileName="src/SuperInovacoes.Api/Controllers/BaseController.cs" />
+      <File FileName="src/SuperInovacoes.Api/Configuracao/Automapper.cs" />
+      <File FileName="src/SuperInovacoes.Data/Data/DataContext.cs" Line="12" Column="1" />
+      <File FileName="src/SuperInovacoes.Data/Data/Mappings/ProdutoMappings.cs" />
+      <File FileName="src/SuperInovacoes.Api/appsettings.json" Line="12" Column="1" />
+      <File FileName="src/SuperInovacoes.Api/Program.cs" />
+      <File FileName="src/SuperInovacoes.Business/Notificacoes/Notificador.cs" />
+      <File FileName="src/SuperInovacoes.Business/Interfaces/INotificador.cs" />
+      <File FileName="src/SuperInovacoes.Business/Models/Entity.cs" />
+      <File FileName="src/SuperInovacoes.Api/ViewModel/ProdutoViewModel.cs" />
+      <File FileName="src/SuperInovacoes.Business/Services/BaseService.cs" />
+      <File FileName="src/SuperInovacoes.Data/Repository/BaseRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperInovacoes" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="SuperInovacoes.Api" expanded="True">
+                <Node name="appsettings.json" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Business" expanded="True">
+              <Node name="SuperInovacoes.Business" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="Validations" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Data" expanded="True">
+              <Node name="SuperInovacoes.Data" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Repository" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>SuperInovacoes/SuperInovacoes.csproj</String>
+    <String>SuperInovacoes.Data/SuperInovacoes.Data.csproj</String>
+    <String>SuperInovacoes.Business/SuperInovacoes.Business.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Data/Repository/ProdutoRepository.cs" relfile="src/SuperInovacoes.Data/Repository/ProdutoRepository.cs" line="26" column="1" />
+      <Breakpoint file="/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Api/Controllers/ProdutoController.cs" relfile="src/SuperInovacoes.Api/Controllers/ProdutoController.cs" line="55" column="1" />
+      <Breakpoint file="/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Business/Services/ProdutoService.cs" relfile="src/SuperInovacoes.Business/Services/ProdutoService.cs" line="22" column="1" />
+      <Breakpoint file="/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Business/Services/ProdutoService.cs" relfile="src/SuperInovacoes.Business/Services/ProdutoService.cs" line="22" column="1" />
+      <Breakpoint file="/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Business/Services/BaseService.cs" relfile="src/SuperInovacoes.Business/Services/BaseService.cs" line="36" column="1" />
+      <Breakpoint file="/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Api/Controllers/ProdutoController.cs" relfile="src/SuperInovacoes.Api/Controllers/ProdutoController.cs" line="137" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

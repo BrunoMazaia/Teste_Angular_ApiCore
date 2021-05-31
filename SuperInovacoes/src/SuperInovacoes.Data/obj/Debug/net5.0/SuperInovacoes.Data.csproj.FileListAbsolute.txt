@@ -1,0 +1,15 @@
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/bin/Debug/net5.0/SuperInovacoes.Data.deps.json
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/bin/Debug/net5.0/SuperInovacoes.Data.dll
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/bin/Debug/net5.0/ref/SuperInovacoes.Data.dll
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/bin/Debug/net5.0/SuperInovacoes.Data.pdb
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/bin/Debug/net5.0/SuperInovacoes.Business.dll
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/bin/Debug/net5.0/SuperInovacoes.Business.pdb
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.csprojAssemblyReference.cache
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.AssemblyInfoInputs.cache
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.AssemblyInfo.cs
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.csproj.CoreCompileInputs.cache
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.csproj.CopyComplete
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.dll
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/ref/SuperInovacoes.Data.dll
+/Users/brunomazaia/Documents/Projetos/ProvaAPI/SuperInovacoes/src/SuperInovacoes.Data/obj/Debug/net5.0/SuperInovacoes.Data.pdb

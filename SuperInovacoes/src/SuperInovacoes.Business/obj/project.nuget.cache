@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDlkpvYQeNiURFVyjTmNIm83FEZgZL7SfRn+IHzXvy/CDs/uY7dWVXOntZRfmx8SsxiP0YOQwevo+ECDpyIbeA==",
+  "success": true,
+  "projectFilePath": "/Users/brunomazaia/Documents/Projetos/Avaliacao/SuperInovacoes/src/SuperInovacoes.Business/SuperInovacoes.Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunomazaia/.nuget/packages/fluentvalidation/10.2.0/fluentvalidation.10.2.0.nupkg.sha512",
+    "/Users/brunomazaia/.nuget/packages/fluentvalidation.aspnetcore/10.2.0/fluentvalidation.aspnetcore.10.2.0.nupkg.sha512",
+    "/Users/brunomazaia/.nuget/packages/fluentvalidation.dependencyinjectionextensions/10.2.0/fluentvalidation.dependencyinjectionextensions.10.2.0.nupkg.sha512",
+    "/Users/brunomazaia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
